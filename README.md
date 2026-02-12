@@ -1,4 +1,4 @@
-# Zepto-Product-Inventory-Analysis
+# SQL-Zepto-Product-Inventory-Analysis
 <br>
 <br>
 Dataset source: https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv 
